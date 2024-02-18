@@ -41,6 +41,31 @@ h1 {
   color: #615151;
 }
 
+.dark-section {
+  color: #fff;
+  background-color: #1b1b32;
+}
+
+.about-me {
+  height: 500px;
+  padding: 10px;
+}
+
+.container {
+  max-width: 600px;
+  text-align: center;
+}
+
+.title-section {
+  font-size: 2rem;
+  padding: 15px 0;
+  font-family: "Rubik Dirt", system-ui;
+}
+
+.text-section {
+  font-size: 1.2rem;
+}
+
 @media screen and (max-width: 767px) {
   .navbar-brand {
     display: none;
